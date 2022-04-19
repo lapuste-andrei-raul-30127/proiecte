@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608073544 source:c:\users\asus\desktop\pa\lab12\lab12\main.c
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606230943 source:c:\users\asus\desktop\pa\lab9\laborator9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

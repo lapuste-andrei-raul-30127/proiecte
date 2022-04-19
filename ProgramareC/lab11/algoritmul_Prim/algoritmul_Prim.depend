@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607442966 source:c:\users\asus\desktop\pa\algoritmul_prim\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603216209 source:c:\users\raull\desktop\pa\lab4\lucrarelab\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
