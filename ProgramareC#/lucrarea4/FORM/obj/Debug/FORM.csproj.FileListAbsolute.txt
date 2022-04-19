@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\bin\Debug\FORM.exe.config
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\bin\Debug\FORM.exe
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\bin\Debug\FORM.pdb
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.Form1.resources
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.Properties.Resources.resources
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.exe
+C:\Users\Asus\Desktop\II\lucrarea4\FORM\obj\Debug\FORM.pdb

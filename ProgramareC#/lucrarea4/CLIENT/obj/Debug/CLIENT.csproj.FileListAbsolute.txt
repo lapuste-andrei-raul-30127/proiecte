@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\obj\Debug\CLIENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Asus\Desktop\II\lucrarea4\CLIENT\obj\Debug\CLIENT.pdb
